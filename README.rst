@@ -19,3 +19,4 @@ Index
   "Sum square difference", `006 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/006.py>`_, "<link>", "<link>"
   "10001st prime", `007 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/007.py>`_, "<link>", "<link>"
   "Largest product in a series", `008 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/008.py>`_, "<link>", "<link>"
+  "Special Pythagorean Triplet", `009 <https://github.com/CodeVITap/ProjectEuler/blob/master/python009.py>`_, "<link>", "<link>"
