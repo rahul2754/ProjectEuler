@@ -20,3 +20,4 @@ Index
   "10001st prime", `007 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/007.py>`_, "<link>", "<link>"
   "Largest product in a series", `008 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/008.py>`_, "<link>", "<link>"
   "Special Pythagorean Triplet", `009 <https://github.com/CodeVITap/ProjectEuler/blob/master/python009.py>`_, "<link>", "<link>"
+  "Summation of primes", `010 <https://github.com/CodeVITap/ProjectEuler/blob/master/python010.py>`_, "<link>", "<link>"
