@@ -22,3 +22,20 @@ Index
   "Special Pythagorean Triplet", `009 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/009.py>`_, "<link>", "<link>"
   "Summation of primes", `010 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/010.py>`_, "<link>", "<link>"
   "Largest Product in a Grid", `011 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/011.py>`_, "<link>", "<link>"
+
+
+Cloning the repository
+######################
+
+Cloning over HTTPS::
+
+  $ git clone https://github.com/CodeVITap/ProjectEuler.git
+  $ cd ProjectEuler
+  $ ls
+  
+  
+Cloning over SSH::
+
+  $ git clone git@github.com:CodeVITap/ProjectEuler.git
+  $ cd ProjectEuler
+  $ ls
