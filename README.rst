@@ -8,7 +8,7 @@ Index
 #####
 
 .. csv-table::
-  :header: "Problem Number", "Python", "C++", "Java"
+  :header: "Problem Title", "Python", "C++", "Java"
   :widths: 50, 35, 35, 35
   
   "Multiples of 3 and 5", `001 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/001.py>`_, `001 <https://github.com/CodeVITap/ProjectEuler/blob/master/cpp/001.cpp>`_, `001 <https://github.com/CodeVITap/ProjectEuler/blob/master/java/solutions/001.java>`_
