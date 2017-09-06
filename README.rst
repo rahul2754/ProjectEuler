@@ -2,7 +2,7 @@
 ProjectEuler Solutions
 **********************
 
--  *Solutions to problems on `<www.projecteuler.net>`*  -
+-  *Solutions to problems on <www.projecteuler.net>*  -
 
 Index
 #####
@@ -21,3 +21,4 @@ Index
   "Largest product in a series", `008 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/008.py>`_, "<link>", "<link>"
   "Special Pythagorean Triplet", `009 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/009.py>`_, "<link>", "<link>"
   "Summation of primes", `010 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/010.py>`_, "<link>", "<link>"
+  "Largest Product in a Grid", `011 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/011.py>`_, "<link>", "<link>"
