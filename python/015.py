@@ -14,4 +14,6 @@ from math import factorial
 
 n = int(input()) # Assign 20 to n for the current problem.
 
-print(int(factorial(2 * n) / factorial(n) ** 2))
+print(int(factorial(2 * n) / factorial(n) ** 2)) 
+
+# <explanation> to be added.
