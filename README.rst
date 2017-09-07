@@ -25,6 +25,7 @@ Index
   "Highly divisible triangular number", `012 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/012.py>`_, "<link>", "<link>"
   "Large sum", `013 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/013.py>`_, "<link>", "<link>"
   "Longest Collatz sequence", `014 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/014.py>`_, "<link>", "<link>"
+  "Lattice paths", `015 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/015.py>`_, "<link>", "<link>"
 
 Cloning the repository
 ######################
