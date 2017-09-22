@@ -27,6 +27,7 @@ Index
   "Longest Collatz sequence", `014 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/014.py>`_, "<link>", "<link>"
   "Lattice paths", `015 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/015.py>`_, "<link>", "<link>"
   "Power digit sum", `016 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/016.py>`_, "<link>", "<link>"
+  "Number Letter Count", `017 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/017.py>`_, "<link>", "<link>"
 
 Cloning the repository
 ######################
