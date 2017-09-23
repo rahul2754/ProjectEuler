@@ -28,6 +28,7 @@ Index
   "Lattice paths", `015 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/015.py>`_, "<link>", "<link>"
   "Power digit sum", `016 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/016.py>`_, "<link>", "<link>"
   "Number Letter Count", `017 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/017.py>`_, "<link>", "<link>"
+  "Triangular, pentagonal, and hexagonal", "<link>", `045 <https://github.com/CodeVITap/ProjectEuler/blob/master/cpp/045.cpp>`_, "<link>"
 
 Cloning the repository
 ######################
