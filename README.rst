@@ -22,7 +22,7 @@ Index
   "Special Pythagorean Triplet", `009 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/009.py>`_, "<link>", "<link>"
   "Summation of primes", `010 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/010.py>`_, "<link>", "<link>"
   "Largest product in a grid", `011 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/011.py>`_, "<link>", "<link>"
-  "Highly divisible triangular number", `012 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/012.py>`_, "`012 <https://github.com/CodeVITap/ProjectEuler/blob/master/cpp/012.cpp>`_, "<link>"
+  "Highly divisible triangular number", `012 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/012.py>`_, `012 <https://github.com/CodeVITap/ProjectEuler/blob/master/cpp/012.cpp>`_, "<link>"
   "Large sum", `013 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/013.py>`_, "<link>", "<link>"
   "Longest Collatz sequence", `014 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/014.py>`_, "<link>", "<link>"
   "Lattice paths", `015 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/015.py>`_, "<link>", "<link>"
