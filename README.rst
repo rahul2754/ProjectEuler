@@ -29,7 +29,7 @@ Index
   "Power digit sum", `016 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/016.py>`_, "<link>", "<link>"
   "Number Letter Count", `017 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/017.py>`_, "<link>", "<link>"
   "Amicable numbers", "<link>", `021 <https://github.com/CodeVITap/ProjectEuler/blob/master/cpp/021.cpp>`_, "<link>"
-  "Digit fifth powers", "<link>", `030 <https://github.com/CodeVITap/ProjectEuler/blob/master/cpp/030.cpp>`_, "<link>"
+  "Digit fifth powers", `030 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/030.py>`_ `030-1 <https://github.com/CodeVITap/ProjectEuler/blob/master/python/030-1.py>`_, `030 <https://github.com/CodeVITap/ProjectEuler/blob/master/cpp/030.cpp>`_, "<link>"
   "Triangular, pentagonal, and hexagonal", "<link>", `045 <https://github.com/CodeVITap/ProjectEuler/blob/master/cpp/045.cpp>`_, "<link>"
 
 Cloning the repository
