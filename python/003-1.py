@@ -54,11 +54,15 @@ def factorTest(num):
     else:
         return None
 
-number = int(input())
+number = 100
 
-result = isPrime(number)
+for n in range(int(number**0.5), 0, -1):
+    if number % n == 0:
+        print("Testing for {}".format(n))
+        result = isPrime(number)
 
-if factorTest:  # Displays the result if it exists.
-    print(result)
-else:
-    print(number)
+        print(result)
+
+        if result == True:
+            print(n)
+            break

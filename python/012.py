@@ -30,13 +30,10 @@ while True:
 			factors += 1
 		elif num % j == 0:
 			factors += 2
-	
-	if factors > 20:
-		print(num)
-		break
 
 	if factors > 500:
 		print(num)
+		print(factors)
 		break
 
 	i += 1

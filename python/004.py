@@ -6,13 +6,14 @@ Find the largest palindrome made from the product of two 3-digit numbers.
 '''
 
 def largest_palindrome(n):
-	for i in range(10**n - 1, 10**(n-2), -1):
-		for j in range(10 ** n, 10**(n-2), -1):
+	global maxInt
+	for i in range(10**n - 1, 10**(n-1) - 1, -1):
+		for j in range(10**n, 10**(n-1) - 1, -1):
 			val = i * j
 			if str(val) == str(val)[::-1]:
-				return (i, j, val)
+				maxInt = max(maxInt, val)
 
-result = largest_palindrome(n) # Replace 'n' with the number of digits of the numbers.	
+maxInt = 0
+largest_palindrome(2) # Replace 'n' with the number of digits of the numbers.	
 
-if result:
-	print(result)
+print(maxInt)

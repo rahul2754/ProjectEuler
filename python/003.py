@@ -15,13 +15,14 @@ What is the largest prime factor of the number N?
 def simple_primality(n):
 	for i in range(n//2, 2, -1):
 		if n % i == 0:
+			print("Testing for {}".format(i))
 			for j in range(2, i//2):
 				if i % j == 0:
 					break
 			else:
 				return i
 
-number = int(input())
+number = 600851475143
 
 result = simple_primality(number)
 

@@ -10,7 +10,7 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 
 # Iterative solution.
 
-n = int(input()) # n stands for the limit.
+n = 4 * 10**6 # n stands for the limit.
 
 l = [1, 2] 
 

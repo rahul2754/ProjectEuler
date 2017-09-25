@@ -9,22 +9,19 @@ What is the Nth prime number?
 '''
 
 
-def is_prime(num):
-	for i in range(2, num):
-		for j in range(2, i):
-			if i % j == 0:
-				return False
-	else:
-		return True
+def is_prime(n):
+	for i in range(2, n//2 + 1):
+		if n % i == 0:
+			return False
+	return True
 
-n = int(input()) # Enter the value for 'N' here.
-
+n = int(input())
 counter = 0
-number = 2
+i = 1
 
-while counter <= n:
-	if is_prime(number):
+while counter < n:
+	i += 1
+	if is_prime(i):
 		counter += 1
-	number += 1
-
-print(number)
+	
+print(i)

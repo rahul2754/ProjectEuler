@@ -5,7 +5,7 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 Find the sum of all the multiples of 3 or 5 below 1000
 '''
 
-limit = 100 - 1 # Decrementing 1 because sum for numbers under 1000.
+limit = 1000 - 1 # Decrementing 1 because sum for numbers under 1000.
 
 n1, n2, n3 = limit // 3, limit // 5, limit // 15 # n represents the number of multiples of 3 or 5 or 15 under the limit.
 
